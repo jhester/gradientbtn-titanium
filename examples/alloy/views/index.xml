@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container" layout="vertical">
+		 <Widget id="btn1" src="GradientButton" buttonBackgroundColor="#EA6A20" title="Button One" top="50dp"/>
+		 <Widget id="btn2" src="GradientButton" buttonBackgroundColor="#522D80" title="Button Two" top="20dp"/>
+		 <Widget id="btn3" src="GradientButton" buttonBackgroundColor="#109dc0" title="Button Three" top="20dp"/>
+	</Window>
+</Alloy>

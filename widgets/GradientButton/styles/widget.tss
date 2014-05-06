@@ -1,0 +1,11 @@
+"#container": {
+	font : {
+        fontFamily : 'Arial',
+        fontWeight : 'bold',
+        fontSize : '15dp'
+    },
+    width : "300dp",
+    height : "45dp",
+    borderRadius : 4,
+    style : Titanium.UI.iPhone.SystemButtonStyle.PLAIN
+}
