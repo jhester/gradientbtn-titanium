@@ -2,6 +2,8 @@ Easy Gradient Buttons - Titanium
 ===
 This Alloy widget and custom controller allows for quick creation of decent looking gradient buttons, just specify a base gradient color from which the gradient is calculated from. The button is touch responsive, going a shade darker onTouch. All other button styles and events are also supported.
 
+Everything needed to run in Alloy is included in the `widgets` folder. For use in regular Titanium, just include `GradientButton.js` inside your `Resources` folder. Examples for both are included. 
+
 ####Alloy Example
 Include this in your XML view file:
 
